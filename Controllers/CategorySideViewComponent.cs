@@ -3,5 +3,7 @@
 	public class CategorySideViewComponent
 	{
 		//asdasdasds
+		char a = 'a';
+			/dasdasasd
 	}
 }
